@@ -1,10 +1,11 @@
 /** Proyecto: Juego de la vida.
+ * 	-MODIFICACIÓN-
  *  Resuelve todos los aspectos relacionados con la presentación 
  *  principal del programa con un menú. Colabora en el patron MVC
  *  @since: prototipo2.1
  *  @source: VistaPrincipal.java 
  *  @version: 2.1 - 2017.05.17
- *  @author: ajp
+ *  @author: Rubén Cervera Sánchez
  */
 
 package accesoUsr.swing;
